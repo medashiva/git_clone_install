@@ -1,5 +1,5 @@
 # git_clone_install
 
-This script clones the application and creates virtualenv at the same time install the requirements.txt file.
+This script clones the code from Git and creates virtualenv at the same time installs the requirements.txt file.
 
-Need to improve more lol...
+Need to improove more.......
